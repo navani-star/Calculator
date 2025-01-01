@@ -1,6 +1,13 @@
+h1{
+    margin-top: 25px;
+    color: rgb(236, 104, 9);
+    font-weight: 900;
+    font-style: italic;
+    font-size: 45px;
+}
 .calculator{
     width: 400px;
-    margin: 100px auto;
+    margin: 50px auto;
     background-color: #3f3c3c;
     padding: 20px;
     border-radius: 20px;
